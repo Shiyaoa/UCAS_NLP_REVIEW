@@ -1,0 +1,4 @@
+主要包括
+chart parsing
+CYK 
+PCFG（算概率的CYK） 
